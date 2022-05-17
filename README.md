@@ -2,10 +2,9 @@
 Official PyTorch Repository of "Task Discrepancy Maximization for Fine-grained Few-Shot Classification" (CVPR 2022 Oral Paper)
 
 
-# Patch-Rotation(PatchRot)
+# Task-Discrepancy-Maximization-for-Fine-grained-Few-Shot-Classification
 
 
-## Patch Rotation: A Self-Supervised Auxiliary Task for Robustness and Accuracy of Supervised Models
 <!--
   Title: 
   Description: This is the code for .
