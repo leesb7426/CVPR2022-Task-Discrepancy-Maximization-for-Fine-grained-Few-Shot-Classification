@@ -17,8 +17,6 @@ Official PyTorch Repository of "Task Discrepancy Maximization for Fine-grained F
 </p>
 
 
-To run the OOD code, first download CIFAR, LSUN_resize,fix, ImageNet_resize,fix and svhn.
-LSUN and ImageNet Dataset can be found in https://github.com/alinlab/CSI.
 
 ### 1. 
 
