@@ -12,8 +12,8 @@ Official PyTorch Repository of "Task Discrepancy Maximization for Fine-grained F
   -->
 
 <p align="center">
-    <img src=figures/.jpg width="45%"> 
-    <img src=figures/.jpg width="45%"> 
+    <img src=figures/SAM.jpg width="45%"> 
+    <img src=figures/QAM.jpg width="45%"> 
 </p>
 
 
