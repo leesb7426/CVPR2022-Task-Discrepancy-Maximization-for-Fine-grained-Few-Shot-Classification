@@ -10,10 +10,14 @@ Official PyTorch Repository of "Task Discrepancy Maximization for Fine-grained F
   Description: This is the code for .
   Author: 
   -->
+<p align="center">
+    <img src=figures/overall.png width="95%"> 
+    
+</p>
 
 <p align="center">
-    <img src=figures/SAM.jpg width="45%"> 
-    <img src=figures/QAM.jpg width="45%"> 
+    <img src=figures/SAM.png width="45%"> 
+    <img src=figures/QAM.png width="45%"> 
 </p>
 
 
