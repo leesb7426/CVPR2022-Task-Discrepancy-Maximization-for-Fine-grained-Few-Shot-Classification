@@ -10,15 +10,33 @@ Official PyTorch Repository of "Task Discrepancy Maximization for Fine-grained F
   Description: This is the code for .
   Author: 
   -->
-<p align="center">
-    <img src=figures/overall.png width="95%"> 
-    
-</p>
 
+<figure style="text-align: center;">
+  <figcaption style="text-align: center;"><b>Overall Framework</b></figcaption>
+    <img src=figures/overall.png width="95%"> 
+</figure>
+
+<figure style="text-align: center;">
+  <p align="center">
+  <figcaption style="text-align: center;"><b>Support Attention Module</b></figcaption>
+    <img src=figures/SAM.png width="45%"> 
+  </p>
+</figure>
+
+<figure style="text-align: center;">
+  <p align="center">
+  <figcaption style="text-align: center;"><b>Query Attention Module</b></figcaption>
+    <img src=figures/QAM.png width="45%"> 
+  </p>
+</figure>
+
+
+<!-- 
 <p align="center">
     <img src=figures/SAM.png width="45%"> 
     <img src=figures/QAM.png width="45%"> 
-</p>
+  <figcaption align = "center"><b>SAM     QAM</b></figcaption>
+</p> -->
 
 
 
