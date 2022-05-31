@@ -16,7 +16,7 @@ Official PyTorch Repository of "Task Discrepancy Maximization for Fine-grained F
     <img src=figures/overall.png width="95%"> 
 </figure>
 
-<figure style="text-align: center;">
+<!-- <figure style="text-align: center;">
   <p align="center">
   <figcaption style="text-align: center;"><b>Support Attention Module</b></figcaption>
     <img src=figures/SAM.png width="45%"> 
@@ -28,7 +28,7 @@ Official PyTorch Repository of "Task Discrepancy Maximization for Fine-grained F
   <figcaption style="text-align: center;"><b>Query Attention Module</b></figcaption>
     <img src=figures/QAM.png width="45%"> 
   </p>
-</figure>
+</figure> -->
 
 
 <!-- 
