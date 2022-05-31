@@ -39,21 +39,43 @@ Official PyTorch Repository of "Task Discrepancy Maximization for Fine-grained F
 </p> -->
 
 
+## Data Preparation
 
-### 1. 
+Please download the dataset before you run the code.
 
-| Method        | Dataset        |  |
-| --------------|--------------- |-|
-| Baseline      |        |      |
-|       |        |      |
-|     |        |     |
+CUB200: [cub200 download link](https://www.cub200.com)
+Aircraft: [aircraft download link](https://www.aircraft.com)
+met-iNat : [met_iNat]()
+Stanford-Cars : [Stanford-Cars]()
+Stanford-Dogs : [Stanford-Dogs]()
+Oxford-Pets : [Oxford-Pets]()
 
-###  Pretrained Weight
+## Pretrained Weights
 
- Method | Top-1 Error (best) | Top-5 Error (best) | Model file
- -- | -- | -- | --
-  |  |  | [model]()
- |  |  | [model]()
-  |  | | [model]()
+ Method | Dataset | 1-shot | 5-shot | Model file
+ -- | -- | -- | -- | --
+  |  |  |  | [model]()
+ |  |  |  | [model]()
+  |  |   | | [model]()
 
-More to be Updated.
+## Usage
+
+### Requirement
+All the requirements to run the code are in requirements.txt
+You can download requirements by running below script.
+```
+pip install -r requirements.txt
+```
+
+### Train
+We provide scripts for training.
+```
+python train_aaa.py --dataset cub200
+```
+
+## Citation
+If you find TDM helpful for your works, please consider citing:
+```
+Task Discrepancy Maximization for Fine-grained Few-Shot Classification
+```
+
