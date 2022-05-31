@@ -44,10 +44,15 @@ Official PyTorch Repository of "Task Discrepancy Maximization for Fine-grained F
 Please download the dataset before you run the code.
 
 CUB200: [cub200 download link](https://www.cub200.com)
+
 Aircraft: [aircraft download link](https://www.aircraft.com)
+
 met-iNat : [met_iNat]()
+
 Stanford-Cars : [Stanford-Cars]()
+
 Stanford-Dogs : [Stanford-Dogs]()
+
 Oxford-Pets : [Oxford-Pets]()
 
 ## Pretrained Weights
