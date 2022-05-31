@@ -43,9 +43,9 @@ Official PyTorch Repository of "Task Discrepancy Maximization for Fine-grained F
 
 Please download the dataset before you run the code.
 
-CUB200: [cub200 download link](https://www.cub200.com)
+CUB200: [CUB200 download link](https://drive.google.com/file/d/1hbzc_P1FuxMkcabkgn9ZKinBwW683j45/view)
 
-Aircraft: [aircraft download link](https://www.aircraft.com)
+Aircraft: [Aircraft download link](https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/archives/fgvc-aircraft-2013b.tar.gz)
 
 met-iNat : [met_iNat]()
 
@@ -54,6 +54,8 @@ Stanford-Cars : [Stanford-Cars]()
 Stanford-Dogs : [Stanford-Dogs]()
 
 Oxford-Pets : [Oxford-Pets]()
+
+
 
 ## Pretrained Weights
 
@@ -84,3 +86,5 @@ If you find TDM helpful for your works, please consider citing:
 Task Discrepancy Maximization for Fine-grained Few-Shot Classification
 ```
 
+## Contact
+If there are any questions, please feel free to contact with the authors:  SuBeen Lee (leesb7426@gmail.com) WonJun Moon (wjun0830@gmail.com). Thank you.
