@@ -49,11 +49,11 @@ Aircraft: [Aircraft download link](https://www.robots.ox.ac.uk/~vgg/data/fgvc-ai
 
 met-iNat : [met_iNat]()
 
-Stanford-Cars : [Stanford-Cars]()
+Stanford-Cars : [Stanford-Cars homepage](http://ai.stanford.edu/~jkrause/cars/car_dataset.html)
 
-Stanford-Dogs : [Stanford-Dogs]()
+Stanford-Dogs : [Stanford-Dogs homepage](http://vision.stanford.edu/aditya86/ImageNetDogs/)
 
-Oxford-Pets : [Oxford-Pets]()
+Oxford-Pets : [Oxford-Pets](https://www.robots.ox.ac.uk/~vgg/data/pets/)
 
 
 
