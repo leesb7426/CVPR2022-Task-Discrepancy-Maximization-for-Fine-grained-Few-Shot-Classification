@@ -59,11 +59,12 @@ Oxford-Pets : [Oxford-Pets](https://www.robots.ox.ac.uk/~vgg/data/pets/)
 
 ## Pretrained Weights
 
- Method | Dataset | 1-shot | 5-shot | Model file
+[Pretrained weights] (https://drive.google.com/drive/folders/15IZtDiMzJT_v49b5AKEdK_2QnBLNegdO?usp=sharing)
+<!--  Method | Dataset | 1-shot | 5-shot | Model file
  -- | -- | -- | -- | --
   |  |  |  | [model]()
  |  |  |  | [model]()
-  |  |   | | [model]()
+  |  |   | | [model]() -->
 
 ## Usage
 
