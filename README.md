@@ -59,7 +59,8 @@ Oxford-Pets : [Oxford-Pets](https://www.robots.ox.ac.uk/~vgg/data/pets/)
 
 ## Pretrained Weights
 
-[Pretrained weights] (https://drive.google.com/drive/folders/15IZtDiMzJT_v49b5AKEdK_2QnBLNegdO?usp=sharing)
+Here, all the pretrained weights with ProtoNet and FRN are publicized.
+[Pretrained weights](https://drive.google.com/drive/folders/15IZtDiMzJT_v49b5AKEdK_2QnBLNegdO?usp=sharing)
 <!--  Method | Dataset | 1-shot | 5-shot | Model file
  -- | -- | -- | -- | --
   |  |  |  | [model]()
@@ -75,10 +76,16 @@ You can download requirements by running below script.
 pip install -r requirements.txt
 ```
 
-### Train
-We provide scripts for training.
+### Evaluation
+To evaluate the code with pretrained weights, we provide an example script below.
 ```
-python train_aaa.py --dataset cub200
+TODO
+```
+
+### Train
+We provide scripts for training. Other shell scripts are in the scripts directory. 
+```
+python3 train.py --model Proto --dataset aircraft --opt sgd --lr 1e-1 --gamma 1e-1 --epoch 400 --stage 3 --val_epoch 20 --weight_decay 5e-4 --nesterov --train_way 30 --train_shot 1 --train_transform_type 0 --test_shot 1 --pre --gpu_num 1
 ```
 
 ## Citation
