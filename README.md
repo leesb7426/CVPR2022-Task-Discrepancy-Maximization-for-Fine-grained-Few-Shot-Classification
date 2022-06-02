@@ -10,7 +10,7 @@ Official PyTorch Repository of "Task Discrepancy Maximization for Fine-grained F
   -->
 
 <figure style="text-align: center;">
-  <figcaption style="text-align: center;"><b>Overall Framework</b></figcaption>
+<!--   <figcaption style="text-align: center;"><b>Overall Framework</b></figcaption> -->
     <img src=figures/overall.png width="95%"> 
 </figure>
 
