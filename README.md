@@ -39,7 +39,7 @@ Official PyTorch Repository of "Task Discrepancy Maximization for Fine-grained F
 
 ## Data Preparation
 
-Please download the dataset before you run the code.
+<!-- Please download the dataset before you run the code.
 
 CUB_200_2011: [CUB_200_2011 download link](https://drive.google.com/file/d/1hbzc_P1FuxMkcabkgn9ZKinBwW683j45/view)
 
@@ -52,6 +52,20 @@ Stanford-Cars : [Stanford-Cars homepage](http://ai.stanford.edu/~jkrause/cars/ca
 Stanford-Dogs : [Stanford-Dogs homepage](http://vision.stanford.edu/aditya86/ImageNetDogs/)
 
 Oxford-Pets : [Oxford-Pets](https://www.robots.ox.ac.uk/~vgg/data/pets/)
+ -->
+ The following datasets are used in our paper:
+
+CUB_200_2011: [Dataset Page](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html)
+
+FGVC-Aircraft: [Dataset Page](http://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/)
+
+iNaturalist2017 : [Dataset Page](https://github.com/visipedia/inat_comp/tree/master/2017)
+
+Stanford-Cars : [Dataset Page](http://ai.stanford.edu/~jkrause/cars/car_dataset.html)
+
+Stanford-Dogs : [Dataset Page](http://vision.stanford.edu/aditya86/ImageNetDogs/)
+
+Oxford-Pets : [Dataset Page](https://www.robots.ox.ac.uk/~vgg/data/pets/)
 
 
 
