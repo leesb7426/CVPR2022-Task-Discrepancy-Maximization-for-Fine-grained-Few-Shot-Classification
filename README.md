@@ -126,22 +126,22 @@ Therefore, we trained all models with 5-shot episodes except ProtoNet because it
 
 ### CUB_cropped
 <figure style="text-align: center;">
-    <img src=figures/CUB_cropped.png width="95%"> 
+    <img src=figures/CUB_cropped.PNG width="95%"> 
 </figure>
 
 ### CUB_raw
 <figure style="text-align: center;">
-    <img src=figures/CUB_raw.png width="95%"> 
+    <img src=figures/CUB_raw.PNG width="95%"> 
 </figure>
 
 ### Aircraft
 <figure style="text-align: center;">
-    <img src=figures/Aircraft.png width="95%"> 
+    <img src=figures/Aircraft.PNG width="95%"> 
 </figure>
 
 ### meta-iNat & tiered meta-iNat
 <figure style="text-align: center;">
-    <img src=figures/iNat.png width="95%"> 
+    <img src=figures/iNat.PNG width="95%"> 
 </figure>
 
 ## Citation
