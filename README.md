@@ -82,6 +82,7 @@ dataset_path: #your_dataset_directory
 
 ### Evaluation
 To evaluate the code with pretrained weights, we provide an example script below.
+
 Test the ProtoNet 1-shot in CUB_cropped with Conv-4.
 ```
 python3 test.py --train_way 5 --train_shot 1 --gpu_num 1 --model Proto --dataset cub_cropped --TDM
