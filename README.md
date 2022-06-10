@@ -83,7 +83,9 @@ dataset_path: #your_dataset_directory
 ### Evaluation
 To evaluate the code with pretrained weights, we provide an example script below.
 ```
-TODO
+python3 test.py --train_way 5 --train_shot 1 --gpu_num 1 --model Proto --dataset cub_cropped --TDM
+python3 test.py --train_way 5 --train_shot 5 --gpu_num 1 --model Proto --dataset cub_cropped --TDM
+python3 test.py --train_way 5 --train_shot 5 --gpu_num 1 --model FRN --dataset cub_cropped --TDM
 ```
 
 ### Train
