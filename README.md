@@ -74,6 +74,12 @@ You can download requirements by running below script.
 pip install -r requirements.txt
 ```
 
+### Dataset directory
+Change the data_path in config.yml.
+```
+dataset_path: #your_dataset_directory
+```
+
 ### Evaluation
 To evaluate the code with pretrained weights, we provide an example script below.
 ```
