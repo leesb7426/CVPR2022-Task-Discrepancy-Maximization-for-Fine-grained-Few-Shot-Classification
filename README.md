@@ -41,11 +41,11 @@ Official PyTorch Repository of "Task Discrepancy Maximization for Fine-grained F
 
 Please download the dataset before you run the code.
 
-CUB200: [CUB200 download link](https://drive.google.com/file/d/1hbzc_P1FuxMkcabkgn9ZKinBwW683j45/view)
+CUB_200_2011: [CUB_200_2011 download link](https://drive.google.com/file/d/1hbzc_P1FuxMkcabkgn9ZKinBwW683j45/view)
 
-Aircraft: [Aircraft download link](https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/archives/fgvc-aircraft-2013b.tar.gz)
+FGVC-Aircraft: [FGVC-Aircraft download link](https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/archives/fgvc-aircraft-2013b.tar.gz)
 
-met-iNat : [met_iNat]()
+iNaturalist2017 : [[iNaturalist2017 Dataset Page](https://github.com/visipedia/inat_comp/tree/master/2017), [iNaturalist2017 Download Data](https://ml-inat-competition-datasets.s3.amazonaws.com/2017/train_val_images.tar.gz), [iNaturalist2017 Download Annotations](https://ml-inat-competition-datasets.s3.amazonaws.com/2017/train_2017_bboxes.zip)\]
 
 Stanford-Cars : [Stanford-Cars homepage](http://ai.stanford.edu/~jkrause/cars/car_dataset.html)
 
