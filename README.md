@@ -121,6 +121,8 @@ python3 train.py --model Proto --dataset aircraft --opt sgd --lr 1e-1 --gamma 1e
 ```
 
 ## Results 
+As we mentioned in our supplementary, we found that CTX and DSN show better performances in 1-shot when they are evaluated by models trained with 5-shot episodes.
+Therefore, we trained all models with 5-shot episodes except ProtoNet because it shows performance degradation.
 
 ### CUB_cropped
 
