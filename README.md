@@ -67,6 +67,7 @@ Stanford-Dogs : [Dataset Page](http://vision.stanford.edu/aditya86/ImageNetDogs/
 
 Oxford-Pets : [Dataset Page](https://www.robots.ox.ac.uk/~vgg/data/pets/)
 
+Please proceed with the setting up data by referring to [FRN Github](http://github.com/Tsingularity/FRN#setting-up-data).
 
 
 ## Pretrained Weights
@@ -97,15 +98,15 @@ dataset_path: #your_dataset_directory
 ### Evaluation
 To evaluate the code with pretrained weights, we provide an example script below.
 
-Test the ProtoNet 1-shot in CUB_cropped with Conv-4.
+Test the ProtoNet 1-shot in CUB_cropped with Conv-4. ()
 ```
 python3 test.py --train_way 5 --train_shot 1 --gpu_num 1 --model Proto --dataset cub_cropped --TDM
 ```
-Test the ProtoNet 5-shot in CUB_cropped with Conv-4.
+Test the ProtoNet 5-shot in CUB_cropped with Conv-4. ()
 ```
 python3 test.py --train_way 5 --train_shot 5 --gpu_num 1 --model Proto --dataset cub_cropped --TDM
 ```
-Test the FRN 1-shot and 5-shot in CUB_cropped with Conv-4.
+Test the FRN 1-shot and 5-shot in CUB_cropped with Conv-4. ()
 ```
 python3 test.py --train_way 5 --train_shot 5 --gpu_num 1 --model FRN --dataset cub_cropped --TDM
 ```
