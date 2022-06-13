@@ -1,7 +1,5 @@
 # Task-Discrepancy-Maximization-for-Fine-grained-Few-Shot-Classification
-Official PyTorch Repository of "Task Discrepancy Maximization for Fine-grained Few-Shot Classification" (CVPR 2022 Oral Paper)
-
-
+Official PyTorch Repository of "[Task Discrepancy Maximization for Fine-grained Few-Shot Classification (CVPR 2022 Oral Paper)](https://openaccess.thecvf.com/content/CVPR2022/html/Lee_Task_Discrepancy_Maximization_for_Fine-Grained_Few-Shot_Classification_CVPR_2022_paper.html)"
 
 <!--
   Title: 
@@ -147,7 +145,14 @@ Therefore, we trained all models with 5-shot episodes except ProtoNet because it
 ## Citation
 If you find TDM helpful for your works, please consider citing:
 ```
-Task Discrepancy Maximization for Fine-grained Few-Shot Classification
+@InProceedings{Lee_2022_CVPR,
+    author    = {Lee, SuBeen and Moon, WonJun and Heo, Jae-Pil},
+    title     = {Task Discrepancy Maximization for Fine-Grained Few-Shot Classification},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2022},
+    pages     = {5331-5340}
+}
 ```
 
 ## Contact
