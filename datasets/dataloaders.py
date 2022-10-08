@@ -24,7 +24,7 @@ def meta_train_dataloader(data_path,way,shots,transform_type):
     loader = torch.utils.data.DataLoader(
         dataset,
         batch_sampler=samplers.meta_batchsampler(data_source=dataset, way=way, shots=shots),
-        num_workers=48,
+        num_workers=8,
         pin_memory=False)
 
     return loader
@@ -38,7 +38,7 @@ def meta_test_dataloader(data_path,way,shot,pre,transform_type=None,query_shot=1
     loader = torch.utils.data.DataLoader(
         dataset,
         batch_sampler=samplers.random_sampler(data_source=dataset,way=way,shot=shot,query_shot=query_shot,trial=trial),
-        num_workers=48,
+        num_workers=8,
         pin_memory=False)
 
     return loader
@@ -55,7 +55,7 @@ def normal_train_dataloader(data_path,batch_size,transform_type):
         dataset,
         batch_size=batch_size,
         shuffle=True,
-        num_workers=48,
+        num_workers=8,
         pin_memory=False,
         drop_last=True)
 
