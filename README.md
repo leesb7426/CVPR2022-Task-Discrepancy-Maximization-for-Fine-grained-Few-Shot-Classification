@@ -35,6 +35,9 @@ Official PyTorch Repository of "[Task Discrepancy Maximization for Fine-grained 
 </p> -->
 
 
+## Bug Fix
+[2023/01/03] We omitted the random loss, which prevents overfitting, in training. Please add "--noise" to the training code. Sorry for the confusion.
+
 ## Data Preparation
 
 <!-- Please download the dataset before you run the code.
@@ -157,6 +160,3 @@ If you find TDM helpful for your works, please consider citing:
 
 ## Contact
 If there are any questions, please feel free to contact with the authors:  SuBeen Lee (leesb7426@gmail.com) WonJun Moon (wjun0830@gmail.com). Thank you.
-
-## Bug Fix
-[2023/01/03] We omitted the random loss, which prevents overfitting, in training. Please add "--noise" to the training code. Sorry for the confusion.
