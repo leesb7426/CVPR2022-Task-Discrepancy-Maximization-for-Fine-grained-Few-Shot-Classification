@@ -35,6 +35,9 @@ Official PyTorch Repository of "[Task Discrepancy Maximization for Fine-grained 
 </p> -->
 
 
+## Update
+[2023/11/21] We released [an extended version of TDM (called IAM)](https://arxiv.org/abs/2308.00093). It is currently under review, and the code will be released after that. 
+
 ## Bug Fix
 [2023/01/03] We omitted the random loss, which prevents overfitting, in training. Please add "--noise" to the training code. Sorry for the confusion.
 
